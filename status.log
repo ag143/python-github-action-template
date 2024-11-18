@@ -120,3 +120,145 @@
 2023-02-06 00:37:41,397 - __main__ - INFO - Weather in Berlin: -2.01
 2023-02-13 00:41:55,645 - __main__ - INFO - Token value: 1234
 2023-02-13 00:41:56,334 - __main__ - INFO - Weather in Berlin: 7.16
+2023-02-20 00:42:40,136 - __main__ - INFO - Token value: 1234
+2023-02-20 00:42:40,714 - __main__ - INFO - Weather in Berlin: 2.39
+2023-02-27 00:41:12,914 - __main__ - INFO - Token value: 1234
+2023-02-27 00:41:13,506 - __main__ - INFO - Weather in Berlin: -1.34
+2023-03-06 00:41:41,381 - __main__ - INFO - Token value: 1234
+2023-03-06 00:41:41,518 - __main__ - INFO - Weather in Berlin: 0.94
+2023-03-13 00:39:58,538 - __main__ - INFO - Token value: 1234
+2023-03-13 00:39:58,984 - __main__ - INFO - Weather in Berlin: 5.94
+2023-03-20 00:40:52,346 - __main__ - INFO - Token value: 1234
+2023-03-20 00:40:52,864 - __main__ - INFO - Weather in Berlin: 10.36
+2023-03-27 00:37:03,135 - __main__ - INFO - Token value: 1234
+2023-03-27 00:37:03,579 - __main__ - INFO - Weather in Berlin: 4.49
+2023-04-03 00:37:03,535 - __main__ - INFO - Token value: 1234
+2023-04-03 00:37:03,887 - __main__ - INFO - Weather in Berlin: 1.06
+2023-04-10 00:36:03,126 - __main__ - INFO - Token value: 1234
+2023-04-10 00:36:03,601 - __main__ - INFO - Weather in Berlin: 6.65
+2023-04-17 00:38:11,628 - __main__ - INFO - Token value: 1234
+2023-04-17 00:38:11,958 - __main__ - INFO - Weather in Berlin: 7.47
+2023-04-24 00:37:25,968 - __main__ - INFO - Token value: 1234
+2023-04-24 00:37:26,548 - __main__ - INFO - Weather in Berlin: 11.24
+2023-05-01 00:38:28,593 - __main__ - INFO - Token value: 1234
+2023-05-01 00:38:29,237 - __main__ - INFO - Weather in Berlin: 4.74
+2023-05-08 00:35:59,553 - __main__ - INFO - Token value: 1234
+2023-05-08 00:36:00,012 - __main__ - INFO - Weather in Berlin: 8.12
+2023-05-15 00:37:43,779 - __main__ - INFO - Token value: 1234
+2023-05-15 00:37:44,323 - __main__ - INFO - Weather in Berlin: 13.01
+2023-05-22 00:38:44,183 - __main__ - INFO - Token value: 1234
+2023-05-22 00:38:44,825 - __main__ - INFO - Weather in Berlin: 18.93
+2023-05-29 00:38:32,685 - __main__ - INFO - Token value: 1234
+2023-05-29 00:38:33,317 - __main__ - INFO - Weather in Berlin: 13.49
+2023-06-05 00:42:16,214 - __main__ - INFO - Token value: 1234
+2023-06-05 00:42:16,354 - __main__ - INFO - Weather in Berlin: 12.54
+2023-06-12 00:44:40,761 - __main__ - INFO - Token value: 1234
+2023-06-12 00:44:41,287 - __main__ - INFO - Weather in Berlin: 17.95
+2023-06-19 00:41:31,896 - __main__ - INFO - Token value: 1234
+2023-06-19 00:41:32,077 - __main__ - INFO - Weather in Berlin: 17.46
+2023-06-26 00:48:35,778 - __main__ - INFO - Token value: 1234
+2023-06-26 00:48:35,965 - __main__ - INFO - Weather in Berlin: 19.96
+2023-07-03 00:47:50,515 - __main__ - INFO - Token value: 1234
+2023-07-03 00:47:51,503 - __main__ - INFO - Weather in Berlin: 14.82
+2023-07-10 00:47:49,548 - __main__ - INFO - Token value: 1234
+2023-07-10 00:47:50,169 - __main__ - INFO - Weather in Berlin: 21.4
+2023-07-17 00:50:57,487 - __main__ - INFO - Token value: 1234
+2023-07-17 00:50:58,057 - __main__ - INFO - Weather in Berlin: 17.68
+2023-07-24 00:41:28,744 - __main__ - INFO - Token value: 1234
+2023-07-24 00:41:29,341 - __main__ - INFO - Weather in Berlin: 19.18
+2023-07-31 00:41:40,366 - __main__ - INFO - Token value: 1234
+2023-07-31 00:41:40,950 - __main__ - INFO - Weather in Berlin: 15.06
+2023-08-07 00:39:33,017 - __main__ - INFO - Token value: 1234
+2023-08-07 00:39:33,591 - __main__ - INFO - Weather in Berlin: 14.24
+2023-08-14 00:32:09,980 - __main__ - INFO - Token value: 1234
+2023-08-14 00:32:10,569 - __main__ - INFO - Weather in Berlin: 19.18
+2023-08-21 00:31:40,538 - __main__ - INFO - Token value: 1234
+2023-08-21 00:31:41,217 - __main__ - INFO - Weather in Berlin: 20.29
+2023-08-28 00:32:45,300 - __main__ - INFO - Token value: 1234
+2023-08-28 00:32:45,759 - __main__ - INFO - Weather in Berlin: 15.49
+2023-09-04 00:32:51,578 - __main__ - INFO - Token value: 1234
+2023-09-04 00:32:51,721 - __main__ - INFO - Weather in Berlin: 13.88
+2023-09-11 00:33:02,029 - __main__ - INFO - Token value: 1234
+2023-09-11 00:33:02,311 - __main__ - INFO - Weather in Berlin: 19.79
+2023-09-18 00:33:08,034 - __main__ - INFO - Token value: 1234
+2023-09-18 00:33:08,622 - __main__ - INFO - Weather in Berlin: 18.77
+2023-09-25 00:33:31,589 - __main__ - INFO - Token value: 1234
+2023-09-25 00:33:32,204 - __main__ - INFO - Weather in Berlin: 11.97
+2023-10-02 00:33:45,247 - __main__ - INFO - Token value: 1234
+2023-10-02 00:33:45,432 - __main__ - INFO - Weather in Berlin: 16.15
+2023-10-09 00:33:46,073 - __main__ - INFO - Token value: 1234
+2023-10-09 00:33:46,678 - __main__ - INFO - Weather in Berlin: 10.35
+2023-10-16 00:34:12,581 - __main__ - INFO - Token value: 1234
+2023-10-16 00:34:13,068 - __main__ - INFO - Weather in Berlin: 6.05
+2023-10-23 00:33:38,346 - __main__ - INFO - Token value: 1234
+2023-10-23 00:33:38,481 - __main__ - INFO - Weather in Berlin: 11.05
+2023-10-30 00:34:04,551 - __main__ - INFO - Token value: 1234
+2023-10-30 00:34:05,043 - __main__ - INFO - Weather in Berlin: 12.19
+2023-11-06 00:34:49,810 - __main__ - INFO - Token value: 1234
+2023-11-06 00:34:50,132 - __main__ - INFO - Weather in Berlin: 10.48
+2023-11-13 00:35:20,583 - __main__ - INFO - Token value: 1234
+2023-11-13 00:35:21,202 - __main__ - INFO - Weather in Berlin: 6.07
+2023-11-20 00:36:06,535 - __main__ - INFO - Token value: 1234
+2023-11-20 00:36:06,644 - __main__ - INFO - Weather in Berlin: 9.7
+2023-11-27 00:35:44,273 - __main__ - INFO - Token value: 1234
+2023-11-27 00:35:44,752 - __main__ - INFO - Weather in Berlin: -0.91
+2023-12-04 00:36:12,963 - __main__ - INFO - Token value: 1234
+2023-12-04 00:36:13,413 - __main__ - INFO - Weather in Berlin: -5.01
+2023-12-11 00:36:36,877 - __main__ - INFO - Token value: 1234
+2023-12-11 00:36:37,345 - __main__ - INFO - Weather in Berlin: 6.43
+2023-12-18 00:36:39,535 - __main__ - INFO - Token value: 1234
+2023-12-18 00:36:40,637 - __main__ - INFO - Weather in Berlin: 5.87
+2023-12-25 00:35:57,463 - __main__ - INFO - Token value: 1234
+2023-12-25 00:35:57,814 - __main__ - INFO - Weather in Berlin: 9.67
+2024-01-01 00:39:23,702 - __main__ - INFO - Token value: 1234
+2024-01-01 00:39:24,163 - __main__ - INFO - Weather in Berlin: 6.02
+2024-01-08 00:36:53,575 - __main__ - INFO - Token value: 1234
+2024-01-08 00:36:54,117 - __main__ - INFO - Weather in Berlin: -6.67
+2024-01-15 00:37:53,460 - __main__ - INFO - Token value: 1234
+2024-01-15 00:37:54,171 - __main__ - INFO - Weather in Berlin: 2.04
+2024-01-22 00:38:04,182 - __main__ - INFO - Token value: 1234
+2024-01-22 00:38:04,935 - __main__ - INFO - Weather in Berlin: 2.86
+2024-01-29 00:34:00,850 - __main__ - INFO - Token value: 1234
+2024-01-29 00:34:01,071 - __main__ - INFO - Weather in Berlin: 1.69
+2024-02-05 00:35:06,109 - __main__ - INFO - Token value: 1234
+2024-02-12 00:34:33,688 - __main__ - INFO - Token value: 1234
+2024-02-19 00:34:58,887 - __main__ - INFO - Token value: 1234
+2024-02-26 00:35:09,233 - __main__ - INFO - Token value: 1234
+2024-03-04 00:34:25,560 - __main__ - INFO - Token value: 1234
+2024-03-11 00:35:08,395 - __main__ - INFO - Token value: 1234
+2024-03-18 00:35:06,524 - __main__ - INFO - Token value: 1234
+2024-03-25 00:35:30,409 - __main__ - INFO - Token value: 1234
+2024-04-01 00:38:07,362 - __main__ - INFO - Token value: 1234
+2024-04-08 00:35:54,186 - __main__ - INFO - Token value: 1234
+2024-04-15 03:04:08,840 - __main__ - INFO - Token value: 1234
+2024-04-22 00:36:28,016 - __main__ - INFO - Token value: 1234
+2024-04-29 00:36:00,211 - __main__ - INFO - Token value: 1234
+2024-05-06 00:36:33,374 - __main__ - INFO - Token value: 1234
+2024-05-13 00:37:20,778 - __main__ - INFO - Token value: 1234
+2024-05-20 00:37:12,884 - __main__ - INFO - Token value: 1234
+2024-05-27 00:37:48,048 - __main__ - INFO - Token value: 1234
+2024-06-03 00:38:07,159 - __main__ - INFO - Token value: 1234
+2024-06-10 00:39:11,953 - __main__ - INFO - Token value: 1234
+2024-06-17 00:39:35,708 - __main__ - INFO - Token value: 1234
+2024-06-24 00:39:42,774 - __main__ - INFO - Token value: 1234
+2024-07-01 00:43:42,399 - __main__ - INFO - Token value: 1234
+2024-07-08 00:40:10,931 - __main__ - INFO - Token value: 1234
+2024-07-15 00:40:40,166 - __main__ - INFO - Token value: 1234
+2024-07-22 00:41:01,877 - __main__ - INFO - Token value: 1234
+2024-07-29 00:41:08,640 - __main__ - INFO - Token value: 1234
+2024-08-05 00:41:30,205 - __main__ - INFO - Token value: 1234
+2024-08-12 00:41:53,777 - __main__ - INFO - Token value: 1234
+2024-08-19 00:41:08,919 - __main__ - INFO - Token value: 1234
+2024-08-26 00:41:09,438 - __main__ - INFO - Token value: 1234
+2024-09-02 00:43:32,364 - __main__ - INFO - Token value: 1234
+2024-09-09 00:44:33,435 - __main__ - INFO - Token value: 1234
+2024-09-16 00:46:12,591 - __main__ - INFO - Token value: 1234
+2024-09-23 00:45:45,251 - __main__ - INFO - Token value: 1234
+2024-09-30 00:47:22,120 - __main__ - INFO - Token value: 1234
+2024-10-07 00:47:15,042 - __main__ - INFO - Token value: 1234
+2024-10-14 00:47:27,568 - __main__ - INFO - Token value: 1234
+2024-10-21 00:47:53,211 - __main__ - INFO - Token value: 1234
+2024-10-28 00:49:00,731 - __main__ - INFO - Token value: 1234
+2024-11-04 00:47:55,869 - __main__ - INFO - Token value: 1234
+2024-11-11 00:46:21,824 - __main__ - INFO - Token value: 1234
+2024-11-18 00:50:57,659 - __main__ - INFO - Token value: 1234
